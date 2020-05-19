@@ -1,1 +1,1 @@
-conflict resolved at local repo in master branch, recommiting back to master
+conflict resolved with manoj's changes on readme edits.
