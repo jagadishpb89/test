@@ -1,1 +1,1 @@
-conflict resolved 2nd time at local in master branch
+edited README to test fetach fiunctionality
