@@ -1,1 +1,1 @@
-conflict resolved with manoj's changes on readme edits.
+conflict resolved 2nd time at local in master branch
