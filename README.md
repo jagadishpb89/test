@@ -1,2 +1,1 @@
-# test
-some data written in local repo in master branch
+conflict resolved at local repo in master branch, recommiting back to master
